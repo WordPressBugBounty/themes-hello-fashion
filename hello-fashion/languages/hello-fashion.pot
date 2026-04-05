@@ -1,14 +1,14 @@
-# <!=Copyright (C) 2022 Blossom Themes
+# <!=Copyright (C) 2026 Blossom Themes
 # This file is distributed under the same license as the Hello Fashion package.=!>
 msgid ""
 msgstr ""
-"Project-Id-Version: Hello Fashion 1.0.2\n"
+"Project-Id-Version: Hello Fashion 1.0.4\n"
 "Report-Msgid-Bugs-To: https://wordpress.org/support/theme/hello-fashion\n"
-"POT-Creation-Date: 2022-07-07 12:27:24+00:00\n"
+"POT-Creation-Date: 2026-04-03 08:21:27+00:00\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: 2026-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
@@ -22,176 +22,176 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-Bookmarks: \n"
 "X-Textdomain-Support: yes\n"
-"X-Generator: grunt-wp-i18n 1.0.3\n"
+"X-Generator: grunt-wp-i18n 1.0.4\n"
 
-#: functions.php:57
+#: functions.php:69
 msgid "Demo & Documentation"
 msgstr ""
 
-#: functions.php:70
+#: functions.php:82
 msgid "Demo Link: %1$sClick here.%2$s"
 msgstr ""
 
-#: functions.php:72
+#: functions.php:84
 msgid "Documentation Link: %1$sClick here.%2$s"
 msgstr ""
 
-#: functions.php:90
+#: functions.php:102
 msgid "Appearance Settings"
 msgstr ""
 
-#: functions.php:91
+#: functions.php:103
 msgid "Customize Typography, Header Image & Background Image"
 msgstr ""
 
-#: functions.php:109
+#: functions.php:121
 msgid "Primary Color"
 msgstr ""
 
-#: functions.php:110
+#: functions.php:122
 msgid "Primary color of the theme."
 msgstr ""
 
-#: functions.php:121
+#: functions.php:133
 msgid "Typography Settings"
 msgstr ""
 
-#: functions.php:141
+#: functions.php:153
 msgid "Primary Font"
 msgstr ""
 
-#: functions.php:142
+#: functions.php:154
 msgid "Primary font of the site."
 msgstr ""
 
-#: functions.php:163
+#: functions.php:175
 msgid "Secondary Font"
 msgstr ""
 
-#: functions.php:164
+#: functions.php:176
 msgid "Secondary font of the site."
 msgstr ""
 
-#: functions.php:186
+#: functions.php:198
 msgid "Font Size"
 msgstr ""
 
-#: functions.php:187
+#: functions.php:199
 msgid "Change the font size of your site."
 msgstr ""
 
-#: functions.php:211
+#: functions.php:223
 msgid "Load Google Fonts Locally"
 msgstr ""
 
-#: functions.php:212
+#: functions.php:224
 msgid ""
 "Enable to load google fonts from your own server instead from google's CDN. "
 "This solves privacy concerns with Google's CDN and their sometimes "
 "less-than-transparent policies."
 msgstr ""
 
-#: functions.php:231
+#: functions.php:243
 msgid "Preload Local Fonts"
 msgstr ""
 
-#: functions.php:232
+#: functions.php:244
 msgid "Preloading Google fonts will speed up your website speed."
 msgstr ""
 
-#: functions.php:240
+#: functions.php:252
 msgid "Click the button to reset the local fonts cache"
 msgstr ""
 
-#: functions.php:242
+#: functions.php:254
 msgid "Flush Local Font Files"
 msgstr ""
 
-#: functions.php:256
+#: functions.php:268
 msgid "Flush Local Fonts Cache"
 msgstr ""
 
-#: functions.php:275
+#: functions.php:287
 msgid "Layout Settings"
 msgstr ""
 
-#: functions.php:283 functions.php:303
+#: functions.php:295 functions.php:315
 msgid "Header Layout"
 msgstr ""
 
-#: functions.php:304
+#: functions.php:316
 msgid "This is the layout for header."
 msgstr ""
 
-#: functions.php:317 functions.php:337
+#: functions.php:329 functions.php:349
 msgid "Slider Layout"
 msgstr ""
 
-#: functions.php:338
+#: functions.php:350
 msgid "Choose the layout of the slider for your site."
 msgstr ""
 
-#: functions.php:351
+#: functions.php:363
 msgid "Home Page Layout"
 msgstr ""
 
-#: functions.php:371
+#: functions.php:383
 msgid "Homepage Layout"
 msgstr ""
 
-#: functions.php:372
+#: functions.php:384
 msgid "Choose the layout of the homepage for your site."
 msgstr ""
 
-#: functions.php:385
+#: functions.php:397
 msgid "General Sidebar Layout"
 msgstr ""
 
-#: functions.php:405
+#: functions.php:417
 msgid "Page Sidebar Layout"
 msgstr ""
 
-#: functions.php:406
+#: functions.php:418
 msgid ""
 "This is the general sidebar layout for pages. You can override the sidebar "
 "layout for individual page in respective page."
 msgstr ""
 
-#: functions.php:432
+#: functions.php:444
 msgid "Post Sidebar Layout"
 msgstr ""
 
-#: functions.php:433
+#: functions.php:445
 msgid ""
 "This is the general sidebar layout for posts & custom post. You can "
 "override the sidebar layout for individual post in respective post."
 msgstr ""
 
-#: functions.php:459
+#: functions.php:471
 msgid "Default Sidebar Layout"
 msgstr ""
 
-#: functions.php:460
+#: functions.php:472
 msgid "This is the general sidebar layout for whole site."
 msgstr ""
 
-#: functions.php:620
+#: functions.php:632
 msgid "Find Your Best Holiday"
 msgstr ""
 
-#: functions.php:621
+#: functions.php:633
 msgid "Find great adventure holidays and activities around the planet."
 msgstr ""
 
-#: functions.php:622
+#: functions.php:634
 msgid "Read More"
 msgstr ""
 
-#: functions.php:879
+#: functions.php:891
 msgid "Pages:"
 msgstr ""
 
-#: functions.php:1055
+#: functions.php:1067
 msgid " Hello Fashion | Developed By "
 msgstr ""
 
@@ -199,11 +199,11 @@ msgstr ""
 msgid "Blossom Themes"
 msgstr ""
 
-#: functions.php:1057
+#: functions.php:1069
 msgid " Powered by %s. "
 msgstr ""
 
-#: functions.php:1057
+#: functions.php:1069
 msgid "https://wordpress.org/"
 msgstr ""
 
@@ -236,7 +236,7 @@ msgstr ""
 msgid "https://blossomthemes.com/"
 msgstr ""
 
-#: functions.php:905
+#: functions.php:917
 #. Translators: If there are characters in your language that are not supported
 #. by respective fonts, translate this to 'off'. Do not translate into your own
 #. language.
@@ -244,12 +244,12 @@ msgctxt "Primary Font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:906
+#: functions.php:918
 msgctxt "Secondary Font: on or off"
 msgid "on"
 msgstr ""
 
-#: functions.php:907
+#: functions.php:919
 msgctxt "Site Title Font: on or off"
 msgid "on"
 msgstr ""

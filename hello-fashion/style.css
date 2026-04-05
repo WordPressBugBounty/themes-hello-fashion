@@ -5,11 +5,12 @@ Template: vilva
 Author: Blossom Themes
 Author URI: https://blossomthemes.com/
 Description: Hello Fashion is an easy to use and mobile-friendly WordPress theme for professional bloggers. With Hello Fashion, you can create a website of different niches such as fashion, travel, lifestyle, beauty, recipes, makeup, journal, mom blog, coaching and much more. You can also choose from unlimited colors and 900+ Google Fonts to change your site look and feel with a single click. In addition, you can flaunt your Instagram posts and increase your followers. The newsletter integration will help you grow your email list and stay in touch with your readers. Hello Fashion is SEO-friendly, speed optimized, translation ready, RTL ready and WooCommerce compatible. Check demo at https://blossomthemes.com/theme-demo/?theme=hello-fashion, read the documentation at https://docs.blossomthemes.com/hello-fashion/, and get support at https://blossomthemes.com/support-ticket/.
-Version: 1.0.3
+Version: 1.0.4
 Liicense: GNU General Public License v3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
-Tested up to: 6.6
-Requires PHP: 7.3
+Tested up to: 6.9
+Requires PHP: 7.4
+Requires at least: 6.2
 Text Domain: hello-fashion
 Tags: blog,one-column,two-columns,right-sidebar,left-sidebar,footer-widgets,custom-background,custom-header,custom-menu,custom-logo,featured-images,threaded-comments,full-width-template,rtl-language-support,translation-ready,theme-options,photography,e-commerce
 */
